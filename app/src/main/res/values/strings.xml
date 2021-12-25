@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="weather">Weather</string>
+    <string name="minsk">Minsk</string>
+    <string name="vilnius">Vilnius</string>
+    <string name="moscow">Moscow</string>
+    <string name="weather_in">The weather in </string>
+    <string name="ok">OK</string>
+</resources>
